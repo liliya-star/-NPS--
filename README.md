@@ -25,5 +25,5 @@ _«Оцените по шкале от 1 до 10 вероятность того
 - Python
 - pandas, numpy — обработка данных
 - SQLite, SQLAlchemy — работа с БД
-- plotly, seaborn — визуализация
-- Jupyter Notebook / Google Colab — интерфейс анализа и визуализации
+- Tableau Public -визуализация
+- Jupyter Notebook / — интерфейс анализа 
